@@ -1,6 +1,6 @@
 # Scriptie
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+Dit project is ontwikkeld voor het kunnen analyseren van reviews.
 
 ## Development server
 
